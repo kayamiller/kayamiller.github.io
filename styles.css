@@ -1,14 +1,20 @@
 body {
-	background-color: black;
+  background-color: black;
+  margin-left: 200;
+  margin-right: 200;
+  margin-top: 50;
+  display: grid;
+  coloe: white;
 }
 
 p {
 	text-align: center;
-	color: white;
 }
 
 button {
-	align-content: center;
-	background-color: black;
-	color: white;
+  background-color: black;
+  border-block-color: white;
+  border-block-end-width: thin;
+  margin-left: 400;
+  margin-right: 400;
 }

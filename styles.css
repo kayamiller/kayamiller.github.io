@@ -8,6 +8,7 @@ p {
 }
 
 button {
-	align-self: center;
-	background-color: darkblue;
+	align-content: center;
+	background-color: black;
+	color: white;
 }

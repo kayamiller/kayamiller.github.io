@@ -1,7 +1,13 @@
 body {
-	background-color: darkseagreen;
+	background-color: black;
 }
 
 p {
 	text-align: center;
+	color: white;
+}
+
+button {
+	align-self: center;
+	background-color: darkblue;
 }
